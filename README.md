@@ -1,8 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Achyutha B Jagadeesh </h1>
-<h3 align="center">ML Enthusiast |  | Learner</h3>
+<h1 align = "center"> Let's Connect and Talk in> </h1>
+<h2 align = "center"> 
+<a href="https://www.instagram.com/achyutha_b_j/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=for-the-badge)
+
+
+</h2> 
+<h3 align="center">ML & LLM Enthusiast | Data Science | Learner</h3>
+
+
 
 <h3 align="left">Languages and Tools that I have worked on:</h3>
 <p align="left">
