@@ -1,13 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Achyutha B Jagadeesh </h1>
-<h1 align = "center"> Let's Connect and Talk in </h1>
-<h2 align = "center"> 
-<a href="https://www.instagram.com/achyutha_b_j/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 
-
-
-</h2> 
 <h3 align="center">ML & LLM Enthusiast | Data Science | Learner</h3>
 
 
